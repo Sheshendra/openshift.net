@@ -4,7 +4,7 @@ Cartridge-Short-Name: DOTNET
 # OPENSHIFT_DOTNET_DIR
 # OPENSHIFT_DOTNET_IP
 # OPENSHIFT_DOTNET_PORT
-# OPENSHIFT_DOTNET_PROXY_PORT
+
 Cartridge-Version: '0.0.1'
 # is a version number identifying a release of your cartridge to OpenShift.
 Compatible-Versions: ['0.0.1']
